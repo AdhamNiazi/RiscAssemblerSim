@@ -1,0 +1,12 @@
+﻿  fiscas.cpp
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(37,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(79,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(81,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(100,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(134,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(146,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\FiscAssemblerFourth\fiscas.cpp(155,23): warning C4018: '<': signed/unsigned mismatch
+  FiscAssemblerFourth.vcxproj -> C:\Users\Adham\OneDrive\Desktop\ECS 154A\Project Folder\FiscAssemblerFourth\Debug\FiscAssemblerFourth.exe
